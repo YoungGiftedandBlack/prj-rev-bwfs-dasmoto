@@ -1,0 +1,9 @@
+h1, h2, h3, p {font-family: helvetica;}
+h1, h2, h3, p {font-weight: bold;}
+h1 {font-size: 100px; color: khaki; text-align: center;}
+h2 {font-size: 32px; color: white;}
+.hyperlink {color: blue;}
+h2.brushes {background-color: mediumspringgreen;}
+h2.frames {background-color: lightcoral;}
+h2.paint {background-color: skyblue;}
+.image {background-image: url("file:///C:/Users/abdul/Documents/Projects/Website/dasmoto/resources/images/pattern.jpeg");}
